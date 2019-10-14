@@ -1,0 +1,24 @@
+{
+  "name": "AndroidSensorManager",
+  "version": "0.0.1",
+  "description": "Cordova Sensor Manager Plugin",
+  "cordova": {
+    "id": "cordova-plugin-sensor-manager",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vandro/my-ionic-cordova-plugin"
+  },
+  "author": "Vandro",
+  "license": "MIT",
+  "engines": {
+    "cordovaDependencies": {
+      "2.0.0": {
+        "cordova-android": ">=6.4.0"
+      }
+    }
+  }
+}
